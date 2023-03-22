@@ -1,0 +1,2 @@
+# gglua
+GG script tool
